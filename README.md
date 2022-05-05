@@ -23,7 +23,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=red"/><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git&logoColor=red"/><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black"/>
 
 **기술 스택은 추후 업데이트 합니다!**
 
